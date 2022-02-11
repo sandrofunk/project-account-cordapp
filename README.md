@@ -3,6 +3,7 @@
 </p>
 
 # CorDapp Template - Kotlin
+## Project Account Cordapp
 
 Welcome to the Kotlin CorDapp template. The CorDapp template is a stubbed-out CorDapp that you can use to bootstrap 
 your own CorDapps.
